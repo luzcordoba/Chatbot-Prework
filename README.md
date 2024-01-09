@@ -10,5 +10,3 @@ This is a repository created by *Luz*
 To create an interactable Chatbot to which clients receive answers to their questions
 
  
-
-```
