@@ -7,10 +7,7 @@ This is a repository created by *Luz*
 ## Usage
 
 
-Run this command to execute the application:
-
-
-`python filename.py`
+To create an interactable Chatbot to which clients receive answers to their questions
 
  
 
